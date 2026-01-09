@@ -8,3 +8,4 @@ pytest-env
 pytest-rerunfailures
 pytest-socket
 requests-mock
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
